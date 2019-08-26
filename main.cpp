@@ -9,6 +9,7 @@ struct student
 class student
 {
     int id;
+	string hehe;
 };
 int main()
 {
